@@ -43,8 +43,9 @@
     {
       "@id": "https://repolex.ai/r/pallets/markupsafe/commit/7afa6391254dc176a2352475226eabf35f0d178d",
       "git:hexsha": "7afa6391254dc176a2352475226eabf35f0d178d",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "0.16"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.16",
+      "repolex:parsedAt": "2026-04-03T01:31:13.408469+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pallets/markupsafe/commit/0aa98c6abd7e8e1c4f585fa01a51a7607f501ada",
