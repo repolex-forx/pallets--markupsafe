@@ -2018,7 +2018,13 @@
         "blob/93a10f89067f012f5a3ecd33b93caadef87d0779.nq.gz",
         "blob/dec87af0737ef20204204694f79c663594a918cb.nq.gz",
         "blob/22228a1cd2fd561782e0fc49bbbe17d61007f4d8.nq.gz"
-      ]
+      ],
+      "ast": [
+        "aggregate/ast/fbba4acd0312826cec9cfe18371c7df07962cb65"
+      ],
+      "lsp": "aggregate/lsp/fbba4acd0312826cec9cfe18371c7df07962cb65.nq.gz",
+      "repolex": "aggregate/repolex/fbba4acd0312826cec9cfe18371c7df07962cb65",
+      "dep": "dep/fbba4acd0312826cec9cfe18371c7df07962cb65.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
